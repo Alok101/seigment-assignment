@@ -1,0 +1,12 @@
+E:\Programming\siemens-app-estimation\EstimationCalculator\Business.Contracts\obj\Debug\netcoreapp3.1\Business.Contracts.csprojAssemblyReference.cache
+E:\Programming\siemens-app-estimation\EstimationCalculator\Business.Contracts\obj\Debug\netcoreapp3.1\Business.Contracts.AssemblyInfoInputs.cache
+E:\Programming\siemens-app-estimation\EstimationCalculator\Business.Contracts\obj\Debug\netcoreapp3.1\Business.Contracts.AssemblyInfo.cs
+E:\Programming\siemens-app-estimation\EstimationCalculator\Business.Contracts\obj\Debug\netcoreapp3.1\Business.Contracts.csproj.CoreCompileInputs.cache
+E:\Programming\siemens-app-estimation\EstimationCalculator\Business.Contracts\bin\Debug\netcoreapp3.1\Business.Contracts.deps.json
+E:\Programming\siemens-app-estimation\EstimationCalculator\Business.Contracts\bin\Debug\netcoreapp3.1\Business.Contracts.dll
+E:\Programming\siemens-app-estimation\EstimationCalculator\Business.Contracts\bin\Debug\netcoreapp3.1\Business.Contracts.pdb
+E:\Programming\siemens-app-estimation\EstimationCalculator\Business.Contracts\bin\Debug\netcoreapp3.1\Data.Contracts.dll
+E:\Programming\siemens-app-estimation\EstimationCalculator\Business.Contracts\bin\Debug\netcoreapp3.1\Data.Contracts.pdb
+E:\Programming\siemens-app-estimation\EstimationCalculator\Business.Contracts\obj\Debug\netcoreapp3.1\Business.Contracts.csproj.CopyComplete
+E:\Programming\siemens-app-estimation\EstimationCalculator\Business.Contracts\obj\Debug\netcoreapp3.1\Business.Contracts.dll
+E:\Programming\siemens-app-estimation\EstimationCalculator\Business.Contracts\obj\Debug\netcoreapp3.1\Business.Contracts.pdb

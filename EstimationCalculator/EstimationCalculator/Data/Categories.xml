@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <category>
+    <categoryId>1</categoryId>
+     <categoryType>Normal</categoryType>
+    <discount>
+     <itemVisible> false</itemVisible>
+      <applicable> false</applicable>
+    </discount>
+  </category>
+  <category>
+    <categoryId>2</categoryId>
+    <categoryType>Privileged</categoryType>
+    <discount>
+      <itemVisible> true</itemVisible>
+      <applicable> true</applicable>
+      <pricePercentage>2</pricePercentage>
+    </discount>
+  </category>
+</root>

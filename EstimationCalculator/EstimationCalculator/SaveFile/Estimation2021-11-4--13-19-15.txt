@@ -1,0 +1,6 @@
+User Type : Normal
+Gold Price (per gram) : 1
+Weight (gram) : 2
+Total Price : 2
+Discount (%) : 0
+Total Amount : 2

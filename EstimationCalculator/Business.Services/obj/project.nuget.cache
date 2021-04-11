@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YmfkKNgdq3kr3aQCS1hX5PwsTrNQ6k6H4LK9BSPeuGkgRyQ98BeMW+oCz0NnfXalDGNwscSdEJQ+IMTeijs/AQ==",
+  "success": true,
+  "projectFilePath": "E:\\Programming\\siemens-app-estimation\\EstimationCalculator\\Business.Services\\Business.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alok Gautam\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

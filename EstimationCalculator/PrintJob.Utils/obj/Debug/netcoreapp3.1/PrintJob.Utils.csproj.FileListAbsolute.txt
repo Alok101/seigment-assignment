@@ -1,0 +1,9 @@
+E:\Programming\siemens-app-estimation\EstimationCalculator\PrintJob.Utils\bin\Debug\netcoreapp3.1\PrintJob.Utils.deps.json
+E:\Programming\siemens-app-estimation\EstimationCalculator\PrintJob.Utils\bin\Debug\netcoreapp3.1\PrintJob.Utils.dll
+E:\Programming\siemens-app-estimation\EstimationCalculator\PrintJob.Utils\bin\Debug\netcoreapp3.1\PrintJob.Utils.pdb
+E:\Programming\siemens-app-estimation\EstimationCalculator\PrintJob.Utils\obj\Debug\netcoreapp3.1\PrintJob.Utils.csprojAssemblyReference.cache
+E:\Programming\siemens-app-estimation\EstimationCalculator\PrintJob.Utils\obj\Debug\netcoreapp3.1\PrintJob.Utils.AssemblyInfoInputs.cache
+E:\Programming\siemens-app-estimation\EstimationCalculator\PrintJob.Utils\obj\Debug\netcoreapp3.1\PrintJob.Utils.AssemblyInfo.cs
+E:\Programming\siemens-app-estimation\EstimationCalculator\PrintJob.Utils\obj\Debug\netcoreapp3.1\PrintJob.Utils.csproj.CoreCompileInputs.cache
+E:\Programming\siemens-app-estimation\EstimationCalculator\PrintJob.Utils\obj\Debug\netcoreapp3.1\PrintJob.Utils.dll
+E:\Programming\siemens-app-estimation\EstimationCalculator\PrintJob.Utils\obj\Debug\netcoreapp3.1\PrintJob.Utils.pdb

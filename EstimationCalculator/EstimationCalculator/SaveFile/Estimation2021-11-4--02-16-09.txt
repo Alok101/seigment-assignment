@@ -1,0 +1,6 @@
+User Type : Privileged
+Gold Price (per gram) : 2
+Weight (gram) : 3
+Total Price : 6
+Discount (%) : 2
+Total Amount : 5.88

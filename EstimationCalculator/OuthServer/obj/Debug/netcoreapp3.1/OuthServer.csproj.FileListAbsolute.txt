@@ -1,0 +1,9 @@
+E:\Programming\siemens-app-estimation\EstimationCalculator\OuthServer\bin\Debug\netcoreapp3.1\OuthServer.deps.json
+E:\Programming\siemens-app-estimation\EstimationCalculator\OuthServer\bin\Debug\netcoreapp3.1\OuthServer.dll
+E:\Programming\siemens-app-estimation\EstimationCalculator\OuthServer\bin\Debug\netcoreapp3.1\OuthServer.pdb
+E:\Programming\siemens-app-estimation\EstimationCalculator\OuthServer\obj\Debug\netcoreapp3.1\OuthServer.csprojAssemblyReference.cache
+E:\Programming\siemens-app-estimation\EstimationCalculator\OuthServer\obj\Debug\netcoreapp3.1\OuthServer.AssemblyInfoInputs.cache
+E:\Programming\siemens-app-estimation\EstimationCalculator\OuthServer\obj\Debug\netcoreapp3.1\OuthServer.AssemblyInfo.cs
+E:\Programming\siemens-app-estimation\EstimationCalculator\OuthServer\obj\Debug\netcoreapp3.1\OuthServer.csproj.CoreCompileInputs.cache
+E:\Programming\siemens-app-estimation\EstimationCalculator\OuthServer\obj\Debug\netcoreapp3.1\OuthServer.dll
+E:\Programming\siemens-app-estimation\EstimationCalculator\OuthServer\obj\Debug\netcoreapp3.1\OuthServer.pdb

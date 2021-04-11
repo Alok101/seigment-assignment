@@ -1,0 +1,9 @@
+E:\Programming\siemens-app-estimation\EstimationCalculator\Data.Contracts\obj\Debug\netcoreapp3.1\Data.Contracts.AssemblyInfoInputs.cache
+E:\Programming\siemens-app-estimation\EstimationCalculator\Data.Contracts\obj\Debug\netcoreapp3.1\Data.Contracts.AssemblyInfo.cs
+E:\Programming\siemens-app-estimation\EstimationCalculator\Data.Contracts\obj\Debug\netcoreapp3.1\Data.Contracts.csproj.CoreCompileInputs.cache
+E:\Programming\siemens-app-estimation\EstimationCalculator\Data.Contracts\bin\Debug\netcoreapp3.1\Data.Contracts.deps.json
+E:\Programming\siemens-app-estimation\EstimationCalculator\Data.Contracts\bin\Debug\netcoreapp3.1\Data.Contracts.dll
+E:\Programming\siemens-app-estimation\EstimationCalculator\Data.Contracts\bin\Debug\netcoreapp3.1\Data.Contracts.pdb
+E:\Programming\siemens-app-estimation\EstimationCalculator\Data.Contracts\obj\Debug\netcoreapp3.1\Data.Contracts.dll
+E:\Programming\siemens-app-estimation\EstimationCalculator\Data.Contracts\obj\Debug\netcoreapp3.1\Data.Contracts.pdb
+E:\Programming\siemens-app-estimation\EstimationCalculator\Data.Contracts\obj\Debug\netcoreapp3.1\Data.Contracts.csprojAssemblyReference.cache

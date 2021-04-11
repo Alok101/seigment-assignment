@@ -1,0 +1,193 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Microsoft.Extensions.Logging.Abstractions/5.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {}
+        }
+      },
+      "Business.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Data.Contracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Business.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Business.Contracts.dll": {}
+        }
+      },
+      "Data.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Data.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Data.Contracts.dll": {}
+        }
+      },
+      "Data.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Data.Contracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Data.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Data.Services.dll": {}
+        }
+      },
+      "PrintJob.Utils/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/PrintJob.Utils.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PrintJob.Utils.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Extensions.Logging.Abstractions/5.0.0": {
+      "sha512": "NxP6ahFcBnnSfwNBi2KH2Oz8Xl5Sm2krjId/jRR3I7teFphwiUoUeZPwTNA21EX+5PtjqmyAvKaOeBXcJjcH/w==",
+      "type": "package",
+      "path": "microsoft.extensions.logging.abstractions/5.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/Microsoft.Extensions.Logging.Abstractions.dll",
+        "lib/net461/Microsoft.Extensions.Logging.Abstractions.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.xml",
+        "microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+        "microsoft.extensions.logging.abstractions.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "Business.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../Business.Contracts/Business.Contracts.csproj",
+      "msbuildProject": "../Business.Contracts/Business.Contracts.csproj"
+    },
+    "Data.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../Data.Contracts/Data.Contracts.csproj",
+      "msbuildProject": "../Data.Contracts/Data.Contracts.csproj"
+    },
+    "Data.Services/1.0.0": {
+      "type": "project",
+      "path": "../Data.Services/Data.Services.csproj",
+      "msbuildProject": "../Data.Services/Data.Services.csproj"
+    },
+    "PrintJob.Utils/1.0.0": {
+      "type": "project",
+      "path": "../PrintJob.Utils/PrintJob.Utils.csproj",
+      "msbuildProject": "../PrintJob.Utils/PrintJob.Utils.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Business.Contracts >= 1.0.0",
+      "Data.Contracts >= 1.0.0",
+      "Data.Services >= 1.0.0",
+      "Microsoft.Extensions.Logging.Abstractions >= 5.0.0",
+      "PrintJob.Utils >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Alok Gautam\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Programming\\siemens-app-estimation\\EstimationCalculator\\Business.Services\\Business.Services.csproj",
+      "projectName": "Business.Services",
+      "projectPath": "E:\\Programming\\siemens-app-estimation\\EstimationCalculator\\Business.Services\\Business.Services.csproj",
+      "packagesPath": "C:\\Users\\Alok Gautam\\.nuget\\packages\\",
+      "outputPath": "E:\\Programming\\siemens-app-estimation\\EstimationCalculator\\Business.Services\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Alok Gautam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "E:\\Programming\\siemens-app-estimation\\EstimationCalculator\\Business.Contracts\\Business.Contracts.csproj": {
+              "projectPath": "E:\\Programming\\siemens-app-estimation\\EstimationCalculator\\Business.Contracts\\Business.Contracts.csproj"
+            },
+            "E:\\Programming\\siemens-app-estimation\\EstimationCalculator\\Data.Contracts\\Data.Contracts.csproj": {
+              "projectPath": "E:\\Programming\\siemens-app-estimation\\EstimationCalculator\\Data.Contracts\\Data.Contracts.csproj"
+            },
+            "E:\\Programming\\siemens-app-estimation\\EstimationCalculator\\Data.Services\\Data.Services.csproj": {
+              "projectPath": "E:\\Programming\\siemens-app-estimation\\EstimationCalculator\\Data.Services\\Data.Services.csproj"
+            },
+            "E:\\Programming\\siemens-app-estimation\\EstimationCalculator\\PrintJob.Utils\\PrintJob.Utils.csproj": {
+              "projectPath": "E:\\Programming\\siemens-app-estimation\\EstimationCalculator\\PrintJob.Utils\\PrintJob.Utils.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "Microsoft.Extensions.Logging.Abstractions": {
+            "target": "Package",
+            "version": "[5.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
